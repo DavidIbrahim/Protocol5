@@ -1,0 +1,95 @@
+Sending Frame{seq=0, ack=7, info=oovlz}
+Sending Frame{seq=1, ack=7, info=vtsvw}
+=== Didn't Receive ack for frame No :0
+=== Resending Frames
+Sending Frame{seq=0, ack=0, info=oovlz}
+Sending Frame{seq=1, ack=0, info=vtsvw}
+=== Finished Resending
+Sending Frame{seq=2, ack=0, info=cfmfm}
+=== Received Ack for Frame No : 0
+=== Received Ack for Frame No : 1
+=== Received Ack for Frame No : 2
+Sending Frame{seq=3, ack=3, info=vtyre}
+Sending Frame{seq=4, ack=3, info=rbghd}
+=== Received Ack for Frame No : 3
+=== Received Ack for Frame No : 4
+Sending Frame{seq=5, ack=5, info=kszxc}
+=== Received Ack for Frame No : 5
+Sending Frame{seq=6, ack=6, info=dwows}
+=== Didn't Receive ack for frame No :6
+=== Resending Frames
+Sending Frame{seq=6, ack=6, info=dwows}
+=== Finished Resending
+=== Received Ack for Frame No : 6
+Sending Frame{seq=7, ack=7, info=jffbv}
+=== Received Ack for Frame No : 7
+Sending Frame{seq=0, ack=0, info=rlqjz}
+=== Received Ack for Frame No : 0
+Sending Frame{seq=1, ack=1, info=jninq}
+=== Didn't Receive ack for frame No :1
+=== Resending Frames
+Sending Frame{seq=1, ack=1, info=jninq}
+=== Finished Resending
+Sending Frame{seq=2, ack=1, info=dzhsv}
+Sending Frame{seq=3, ack=1, info=vnurc}
+=== Received Ack for Frame No : 1
+=== Didn't Receive ack for frame No :2
+=== Resending Frames
+Sending Frame{seq=2, ack=2, info=dzhsv}
+Sending Frame{seq=3, ack=2, info=vnurc}
+=== Finished Resending
+Sending Frame{seq=4, ack=2, info=jddsc}
+Sending Frame{seq=5, ack=2, info=dfyqt}
+=== Received Ack for Frame No : 2
+=== Didn't Receive ack for frame No :3
+=== Resending Frames
+Sending Frame{seq=3, ack=3, info=vnurc}
+Sending Frame{seq=4, ack=3, info=jddsc}
+Sending Frame{seq=5, ack=3, info=dfyqt}
+=== Finished Resending
+Sending Frame{seq=6, ack=3, info=ffuno}
+Sending Frame{seq=7, ack=3, info=jyest}
+=== Received Ack for Frame No : 3
+Sending Frame{seq=0, ack=4, info=ddfbo}
+=== Received Ack for Frame No : 4
+Sending Frame{seq=1, ack=5, info=dgmow}
+Sending Frame{seq=2, ack=5, info=vddmv}
+=== Received Ack for Frame No : 5
+=== Received Ack for Frame No : 6
+=== Received Ack for Frame No : 7
+Sending Frame{seq=3, ack=0, info=yuzhk}
+=== Received Ack for Frame No : 0
+Sending Frame{seq=4, ack=1, info=ahbga}
+Sending Frame{seq=5, ack=1, info=hrsgv}
+Sending Frame{seq=6, ack=1, info=ueukw}
+=== Received Ack for Frame No : 1
+Sending Frame{seq=7, ack=2, info=xpsnm}
+=== Didn't Receive ack for frame No :2
+=== Resending Frames
+Sending Frame{seq=2, ack=2, info=vddmv}
+Sending Frame{seq=3, ack=2, info=yuzhk}
+Sending Frame{seq=4, ack=2, info=ahbga}
+Sending Frame{seq=5, ack=2, info=hrsgv}
+Sending Frame{seq=6, ack=2, info=ueukw}
+Sending Frame{seq=7, ack=2, info=xpsnm}
+=== Finished Resending
+=== Didn't Receive ack for frame No :2
+=== Resending Frames
+Sending Frame{seq=2, ack=2, info=vddmv}
+Sending Frame{seq=3, ack=2, info=yuzhk}
+Sending Frame{seq=4, ack=2, info=ahbga}
+Sending Frame{seq=5, ack=2, info=hrsgv}
+Sending Frame{seq=6, ack=2, info=ueukw}
+Sending Frame{seq=7, ack=2, info=xpsnm}
+=== Finished Resending
+=== Didn't Receive ack for frame No :2
+=== Resending Frames
+Sending Frame{seq=2, ack=2, info=vddmv}
+Sending Frame{seq=3, ack=2, info=yuzhk}
+Sending Frame{seq=4, ack=2, info=ahbga}
+Sending Frame{seq=5, ack=2, info=hrsgv}
+Sending Frame{seq=6, ack=2, info=ueukw}
+Sending Frame{seq=7, ack=2, info=xpsnm}
+=== Finished Resending
+Sending Frame{seq=0, ack=2, info=qclfd}
+Sending Frame{seq=1, ack=2, info=bravi}
